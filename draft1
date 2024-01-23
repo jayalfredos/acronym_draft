@@ -1,20 +1,26 @@
 | Abbreviation | Definition | URL | Info |
 
-| AOS | Acknowledgement of Service | | |
-| ADR | Alternative dispute resolution | | |
-| AOS | Acknowledgement of Service | | |
-| CaseMan | Civil Case Management legacy system | | |
-| CARM | Civil Automatic Referral to Mediation | | |
-| CPR | Civil Procedure Rule | | |
-| DDJ | Deputy District Judge | | |
-| DJ | District Judge | | |
-| DTS | Digital Technology Services | | |
-| DQ | Directions Questionnaire | | |
-| DRH | Digital Resolution Hearing | | |
-| EPDQ | Electronic Post Data Quickly transaction | | |
+| ADR | Alternative dispute resolution | |  A method of resolving disputes outside court - for example, mediation. |
+| AOS | Acknowledgement of Service | | Document filed by a defendant after being served court documents. |  
+| CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services. |  
+| CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |  
+| CPR | Civil Procedure Rule | | A rule covering how Civil litigation proceeds in the courts. |  
+| CPRC | Civil Procedure Rule Committee | | Committee deciding the rules that govern the processes of Civil cases.  |
+| LCJ | Lord Chief Justice | | Head of the judiciary in England and Wales.  |
+| CUI | Citizen UI | | |
+| DDJ | Deputy District Judge | | A judge who sits for between 15 to 50 days a year in the County Courts. |
+| DJ | District Judge | | Judges dealing with most cases in the County Courts. |
+| DQ | Directions Questionnaire | | Form sent to claimants and defendants in small claim cases so the judge can give instructions. |
+| DRA | Digital Reeference Architecture | | The enterprise architecture view of HMCTS. |
+| EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service. |
+| ExUI | Expert UI | | Common component providing a user interface to HMCTS staff and solicitors. |
+| HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS. |
 | LA | Legal Advisor | | |
-| MILO | Mediation in Leicester Office (decommissioned system) | | |
-| OCMC | Online Civil Money Claims | | |
-| PBA | Payment By Account | | |
-| PPI | Payment Protection Insurance | | |
+| LiP | Litigant in Person | | An individual representing themselves at court without legal representation. |
+| MCOL | Money Claims Online | | An online platform enabling money claims to be processed online. |
+| OCMC | Online Civil Money Claims | Online platform allowing case management including tracking case progress and exchanging information. |
+| PBA | Payment By Account | | Payment system streamlining payment by solicitors and other legal professionals across HMCTS services. |
+| PPI | Payment Protection Insurance | | Insurance product that gave insurance to borrowers if they were unable to repay for unforseen reasons. |
+| SCMS | Small Claims Mediation Service | Mediation service for people involved in small claim disputes. | Applies to cases worth less than £10,000. |
 | SDO | Standard Directions Order | | |
+| SDT | Secure Data Transfer | | |
