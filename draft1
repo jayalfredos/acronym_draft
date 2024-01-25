@@ -1,7 +1,7 @@
 | Abbreviation | Definition | URL | Info |
 
 | ADR | Alternative dispute resolution | |  A method of resolving disputes outside court - for example, mediation. |
-| AOS | Acknowledgement of Service | | Document filed by a defendant after being served court documents. |  
+| AOS | Acknowledgement of Service | | Document filed by a defendant confirming they've been served court documents. |  
 | CaseMan | Civil Case Management legacy system | | The case management system formerly used by HMCTS services. |  
 | CARM | Civil Automatic Referral to Mediation | | A process automatically referring some Civil cases to mediation. |  
 | CPR | Civil Procedure Rule | | A rule covering how Civil litigation proceeds in the courts. |  
@@ -12,7 +12,7 @@
 | DJ | District Judge | | Judges dealing with most cases in the County Courts. |
 | DQ | Directions Questionnaire | | Form sent to claimants and defendants in small claim cases so the judge can give instructions. |
 | DRA | Digital Reeference Architecture | | The enterprise architecture view of HMCTS. |
-| EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service. |
+| EPDQ | Electronic Post Data Quickly transaction | | Electronic payments service used within some HMCTS services |
 | ExUI | Expert UI | | Common component providing a user interface to HMCTS staff and solicitors. |
 | HMC | Hearing Management Component | | Common component facilitating the management of hearings at HMCTS. |
 | LA | Legal Advisor | | |
